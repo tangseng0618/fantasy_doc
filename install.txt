@@ -1,0 +1,10 @@
+sudo chmod -R 777 system/cache/
+sudo chmod -R 777 system/logs/
+sudo chmod -R 777 system/download/
+sudo chmod -R 777 system/upload/
+sudo chmod -R 777 image/
+sudo chmod -R 777 image/cache/
+sudo chmod -R 777 image/catalog/
+sudo chmod 777 config.php
+sudo chmod 777 admin/config.php
+sudo chmod -R 777 system/modification/
